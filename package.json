@@ -1,6 +1,6 @@
 {
   "private": true,
-  "worspaces": [
+  "workspaces": [
     "packages/*"
   ]
 }
