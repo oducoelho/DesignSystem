@@ -32,7 +32,7 @@ module.exports = __toCommonJS(src_exports);
 
 // src/colors.ts
 var colors = {
-  white: "",
+  white: "#FFF",
   black: "#000",
   gray100: "#E1E1E6",
   gray200: "#A9A9B2",
@@ -45,8 +45,7 @@ var colors = {
   ignite300: "#00B37E",
   ignite500: "#00875F",
   ignite700: "#015F43",
-  ignite900: "#00291D",
-  test: "#fff"
+  ignite900: "#00291D"
 };
 
 // src/space.ts
