@@ -1,9 +1,9 @@
-export * from './colors'
+export * from '@oducoelho-ui/tokens/src/colors'
 
-export * from './space'
-export * from './radii'
+export * from '@oducoelho-ui/tokens/src/space'
+export * from '@oducoelho-ui/tokens/src/radii'
 
-export * from './fonts'
-export * from './font-sizes'
-export * from './font-weights'
-export * from './line-heights'
+export * from '@oducoelho-ui/tokens/src/fonts'
+export * from '@oducoelho-ui/tokens/src/font-sizes'
+export * from '@oducoelho-ui/tokens/src/font-weights'
+export * from '@oducoelho-ui/tokens/src/line-heights'

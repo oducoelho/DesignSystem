@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, Toast, ToastProps } from '@ignite-ui/react'
+import { Button, Toast, ToastProps } from '@oducoelho-ui/react'
 import { useEffect, useRef, useState } from 'react'
 
 const DemoToast = (props: ToastProps) => {
